@@ -1,0 +1,25 @@
+{
+  "name": "imgsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlaDdos/imagesearch.git"
+  },
+  "author": "GlaDdos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlaDdos/imagesearch/issues"
+  },
+  "homepage": "https://github.com/GlaDdos/imagesearch#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "https": "^1.0.0",
+    "mongoose": "^4.4.14"
+  }
+}
